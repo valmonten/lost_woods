@@ -1,0 +1,8 @@
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\bin\Debug\netcoreapp1.1\lost_in_the_woods.deps.json
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\bin\Debug\netcoreapp1.1\lost_in_the_woods.runtimeconfig.json
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\bin\Debug\netcoreapp1.1\lost_in_the_woods.runtimeconfig.dev.json
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\bin\Debug\netcoreapp1.1\lost_in_the_woods.dll
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\bin\Debug\netcoreapp1.1\lost_in_the_woods.pdb
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\obj\Debug\netcoreapp1.1\lost_in_the_woods.AssemblyInfo.cs
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\obj\Debug\netcoreapp1.1\lost_in_the_woods.dll
+C:\Users\valmo\OneDrive\Dojo\C#\lost_in_the_woods\obj\Debug\netcoreapp1.1\lost_in_the_woods.pdb

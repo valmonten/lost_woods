@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lost in the Woods</title>
+</head>
+<body>
+    <h1>Lost in the Woods</h1>
+    <table>
+        <tr>
+            <th>Trail Name</th>
+            <th>Trail Length</th>
+            <th>Elevation Change</th>
+        </tr>
+            @{
+                @foreach(var trail in ViewBag.trails)
+                {
+                    <tr>
+                        <td><a href="/trail/@trail.idTrail">@trail.name</a></td>
+                        <td>@trail.length</td>
+                        <td>@trail.elevationchange</td>
+                    </tr>
+                }
+            }
+            
+    </table>
+    <form action="/newtrail/" method="get">
+        <input type="submit" value="Add a new Trail">
+    </form>
+</body>
+</html>
